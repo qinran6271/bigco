@@ -155,8 +155,8 @@ export const Home = () => {
             <div className="mt-8 ml-4 overflow-y-auto h-screen relative" >
               <VideoThumbnailRowSection />
               <VideoGridWrapperSection />
-              <VideoThumbnailWrapperSection />
-              <VideoGridSection />
+              {/* <VideoThumbnailWrapperSection /> */}
+              {/* <VideoGridSection /> */}
               <MainContentSection />
             </div>
           </main>
